@@ -2,4 +2,4 @@
 
 My Page
 
-This file was edited locally
+manualy during conflict resolution
